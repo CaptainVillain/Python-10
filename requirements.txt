@@ -39,6 +39,7 @@ pyparsing==2.3.1
 python-dateutil==2.7.5
 pytz==2018.9
 pyzmq==17.1.2
+pillow==5.3.0
 qtconsole==4.4.3
 rise==5.4.1
 scikit-learn==0.20.2
